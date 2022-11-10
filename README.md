@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 
+- 📚 **I'm studying web development at Trybe**
+
 - 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Animes, games and tech stuff**

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">A Web Developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/replicario.com.br/wp-content/uploads/2020/02/Screen_Shot_2020_02_28_at_9.36.56_AM.png?fit=878%2C460&ssl=1">
+<img align="right" alt="Coding" width="400" height="200" src="https://i0.wp.com/replicario.com.br/wp-content/uploads/2020/02/Screen_Shot_2020_02_28_at_9.36.56_AM.png?fit=878%2C460&ssl=1">
 
 - 🏡 **Jaraguá do Sul - Brazil**
 

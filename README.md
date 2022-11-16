@@ -7,7 +7,7 @@
 
 - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

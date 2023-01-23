@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">A Web Developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="360" src="[https://i0.wp.com/replicario.com.br/wp-content/uploads/2020/02/Screen_Shot_2020_02_28_at_9.36.56_AM.png?fit=878%2C460&ssl=1](https://cdn.vox-cdn.com/thumbor/NYlyud76Q4E8A960fBQteiPNFiw=/0x0:878x492/1400x788/filters:focal(439x246:440x247)/cdn.vox-cdn.com/uploads/chorus_asset/file/19754183/Screen_Shot_2020_02_28_at_9.36.56_AM.png)">
+<img align="right" alt="Coding" width="360" src="https://cdn.vox-cdn.com/thumbor/NYlyud76Q4E8A960fBQteiPNFiw=/0x0:878x492/1400x788/filters:focal(439x246:440x247)/cdn.vox-cdn.com/uploads/chorus_asset/file/19754183/Screen_Shot_2020_02_28_at_9.36.56_AM.png">
 
 - 🏡 **Jaraguá do Sul - Brazil**
 

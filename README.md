@@ -7,7 +7,7 @@
 
 - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)**
 
-- 🌱 I’m currently learning **ORM and Sequelize**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

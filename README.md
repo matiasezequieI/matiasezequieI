@@ -7,7 +7,7 @@
 
 - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)**
 
-- 🌱 I’m currently learning **MongoDB and Mongoose**
+- 🌱 I’m currently learning **Web Scraping and Python**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

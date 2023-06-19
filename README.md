@@ -7,7 +7,7 @@
 
 - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)**
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**
+- 🌱 I’m currently learning **Computer Science and Web Development**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 
-- 💬 Ask me about **animes, games and tech stuff**
+- 💬 Ask me about **animes, music, games and tech stuff**
 
 ##
 

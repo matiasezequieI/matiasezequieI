@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="360" src="https://cdn.vox-cdn.com/thumbor/NYlyud76Q4E8A960fBQteiPNFiw=/0x0:878x492/1400x788/filters:focal(439x246:440x247)/cdn.vox-cdn.com/uploads/chorus_asset/file/19754183/Screen_Shot_2020_02_28_at_9.36.56_AM.png">
 
-- 🏡 **Jaraguá do Sul, Brazil**
+- 🏡 **Jaraguá do Sul - Brazil**
 
 - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)**
 
-- 🌱 I’m currently learning **Computer Science and Web Development**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)**
 
-- 🌱 I’m currently learning **Java and Web development**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

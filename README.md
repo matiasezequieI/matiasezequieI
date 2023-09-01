@@ -7,7 +7,7 @@
 
 <!-- - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)** -->
 
-- 🌱 I’m currently learning **NextJS and Tailwind CSS**
+- 🌱 I’m currently learning **NextJS and TailwindCSS**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

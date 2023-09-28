@@ -7,7 +7,7 @@
 
 <!-- - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)** -->
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and Java**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

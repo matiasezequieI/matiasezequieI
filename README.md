@@ -7,7 +7,7 @@
 
 <!-- - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)** -->
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#/.NET**
 
 - 📫 How to reach me **matiasezequiel.qwerty@gmail.com**
 

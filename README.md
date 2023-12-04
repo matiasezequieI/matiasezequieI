@@ -5,7 +5,7 @@
 
 - 🏡 **Jaraguá do Sul - Brazil**
 
-<!-- - 📚 **I'm studying web development at [Trybe](https://www.betrybe.com/)** -->
+<!-- - 📚 ***I'm studying web development at [Trybe](https://www.betrybe.com/)** -->
 
 - 🌱 I’m currently learning **C#**
 
